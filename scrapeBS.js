@@ -125,5 +125,5 @@ var FN_GRAB_TODAY = "VN30F2010_2020_10_26"
 var FN_SAVE_IT = "2020_10_26"
 
 STEP_SAVE = 10;
-// myInterval = setInterval(scrapeHose, 2000)
+//  myInterval = setInterval(scrapeHose, 2000)
 myInterval = setInterval(scrapeBS, 2000)
